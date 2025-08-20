@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Homepage
 ---
 
+This is my GitHub pages. It is awesome.
